@@ -1,6 +1,6 @@
 [
   {
-    "id": "rest_41724",
+    "id": "rest_64435",
     "name": "드라마랑 정말 똑 같이 나올까⁉️ \"고독한 미식가\" 출연 식당 가봄‼️",
     "map_url": "https://maps.app.goo.gl/1BrYW26iEZELYh6x8",
     "region": "도쿄(東京)",
@@ -12,40 +12,39 @@
     "channels": [
       "도사남 DoSaNam"
     ],
-    "google_rating": 4.8,
+    "google_rating": 4.9,
     "restaurant_thumbnail": "https://img.youtube.com/vi/LxLMWAfafF4/maxresdefault.jpg",
     "video_id": "LxLMWAfafF4",
     "published_at": "2026-03-09T10:00:27Z",
-    "view_count": 45094,
-    "final_score": 58.0
+    "view_count": 45216,
+    "final_score": 59.0
   },
   {
-    "id": "rest_16982",
-    "name": "한국인 리뷰0! 쌀에 진심인 신주쿠 이자카야 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/bPzSUrYnjX5D7n6y5",
-    "region": "신주쿠(新宿)",
-    "address": "〒163-0590 Tokyo, Shinjuku City, Nishishinjuku, 1 Chome−26−2 新宿野村ビル B1",
+    "id": "rest_19720",
+    "name": "요즘 선 많이 넘는 일본 회전 초밥🍣집 근황",
+    "map_url": "https://maps.app.goo.gl/suZhczQD9BSawmvt7",
+    "region": "시부야(渋谷)",
+    "address": "도쿄도 (상세 주소 미기재)",
     "atmosphere_tags": [
-      "혼밥가능",
-      "이자카야"
+      "스시"
     ],
     "overlap_count": 1,
     "channels": [
-      "토요일의 도쿄"
+      "도사남 DoSaNam"
     ],
-    "google_rating": 4.8,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/yqMQFfR4Vgs/maxresdefault.jpg",
-    "video_id": "yqMQFfR4Vgs",
-    "published_at": "2026-03-07T02:32:28Z",
-    "view_count": 18591,
-    "final_score": 58.0
+    "google_rating": 4.9,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/YvWhq-fLErQ/maxresdefault.jpg",
+    "video_id": "YvWhq-fLErQ",
+    "published_at": "2026-03-06T10:01:02Z",
+    "view_count": 46201,
+    "final_score": 59.0
   },
   {
-    "id": "rest_29128",
-    "name": "1년 내내 이날만 기다렸다!!🔥 100만 명과 함께 즐기는 도쿄 역대급 축제🎊 도쿄 맛집 ",
-    "map_url": "https://maps.app.goo.gl/TRtRUU7uhrgBpquMA",
-    "region": "도쿄(東京)",
-    "address": "〒166-0003 Tokyo, Suginami City, Koenjiminami, 4 Chome−8−5 1F",
+    "id": "rest_92200",
+    "name": "도쿄 사람들이 많이 가는 미국 맛집 5곳 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/T8fxwzWwsuy8hP1i8",
+    "region": "시부야(渋谷)",
+    "address": "〒151-0053 Tokyo, Shibuya, Yoyogi, 1 Chome−37−1 大善 ビル 1F",
     "atmosphere_tags": [
       "도쿄맛집"
     ],
@@ -53,15 +52,296 @@
     "channels": [
       "토요일의 도쿄"
     ],
+    "google_rating": 4.9,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/HzNYhmvwJ5E/maxresdefault.jpg",
+    "video_id": "HzNYhmvwJ5E",
+    "published_at": "2026-03-15T01:00:24Z",
+    "view_count": 15369,
+    "final_score": 59.0
+  },
+  {
+    "id": "rest_98991",
+    "name": "1인 영업 라멘집에서 딱 한가지 메뉴만 팔아보면? 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/NpWmN6ZQ7TYaJZRa6",
+    "region": "시부야(渋谷)",
+    "address": "〒151-0072 Tokyo, Shibuya, Hatagaya, 1 Chome−5−7 清水ビル 1F",
+    "atmosphere_tags": [
+      "혼밥가능",
+      "라멘"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "토요일의 도쿄"
+    ],
+    "google_rating": 4.9,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/_VbZxB9oSmQ/maxresdefault.jpg",
+    "video_id": "_VbZxB9oSmQ",
+    "published_at": "2025-12-13T01:01:01Z",
+    "view_count": 22075,
+    "final_score": 59.0
+  },
+  {
+    "id": "rest_01677",
+    "name": "도쿄 생활 15년 잠시 쉬어갑니다... 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/rYhacvbwszrc3Sxo9",
+    "region": "신주쿠(新宿)",
+    "address": "〒151-0072 Tokyo, Shibuya, Hatagaya, 1 Chome−4−1 花ビル 1F",
+    "atmosphere_tags": [
+      "라멘"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "토요일의 도쿄"
+    ],
+    "google_rating": 4.9,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/R5J_xi2Cr-E/maxresdefault.jpg",
+    "video_id": "R5J_xi2Cr-E",
+    "published_at": "2025-05-24T01:52:07Z",
+    "view_count": 26313,
+    "final_score": 59.0
+  },
+  {
+    "id": "rest_01277",
+    "name": "동네 주민 전부 쯔양⁉️충격의💥 일본 대식가 전용 식당⁉️",
+    "map_url": "https://maps.app.goo.gl/zphFHqoiufZujqK38",
+    "region": "도쿄(東京)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "도쿄맛집"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "도사남 DoSaNam"
+    ],
     "google_rating": 4.8,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/PilqC9GzGwE/maxresdefault.jpg",
-    "video_id": "PilqC9GzGwE",
-    "published_at": "2025-08-30T04:10:27Z",
-    "view_count": 32946,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/DtJcl7eMKJI/maxresdefault.jpg",
+    "video_id": "DtJcl7eMKJI",
+    "published_at": "2026-03-02T10:00:30Z",
+    "view_count": 53170,
     "final_score": 58.0
   },
   {
-    "id": "rest_78271",
+    "id": "rest_86922",
+    "name": "유명해 지기 전에 가세요‼️아직 때 문지 않은 일본 겨울❄️ 온천♨️ 휴양지‼️ \"오유 온",
+    "map_url": "https://maps.app.goo.gl/N8kQezstxvukf9Rv9",
+    "region": "도쿄(東京)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "도쿄맛집"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "도사남 DoSaNam"
+    ],
+    "google_rating": 4.8,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/zpUHiDUpjdw/maxresdefault.jpg",
+    "video_id": "zpUHiDUpjdw",
+    "published_at": "2026-02-27T10:01:40Z",
+    "view_count": 25691,
+    "final_score": 58.0
+  },
+  {
+    "id": "rest_99677",
+    "name": "몇년 만에 폭설❄️내린 도쿄🗼 5cm만 싸여도 교통 마비⁉️",
+    "map_url": "https://maps.app.goo.gl/fVkSvkxo7pSFqhvG8",
+    "region": "도쿄(東京)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "라멘"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "도사남 DoSaNam"
+    ],
+    "google_rating": 4.8,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/7ybj6-h2oPI/maxresdefault.jpg",
+    "video_id": "7ybj6-h2oPI",
+    "published_at": "2026-02-09T10:03:33Z",
+    "view_count": 38492,
+    "final_score": 58.0
+  },
+  {
+    "id": "rest_38036",
+    "name": "일본 연예인들이 환장하는 도쿄 넘버원 도시락🍱 집",
+    "map_url": "https://maps.app.goo.gl/QdS1B3NZ9uwwGScX8",
+    "region": "도쿄(東京)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "도쿄맛집"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "도사남 DoSaNam"
+    ],
+    "google_rating": 4.8,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/HNo8a_PLgqg/maxresdefault.jpg",
+    "video_id": "HNo8a_PLgqg",
+    "published_at": "2026-01-30T10:00:32Z",
+    "view_count": 67651,
+    "final_score": 58.0
+  },
+  {
+    "id": "rest_08625",
+    "name": "존레논도 3일 연속 다녀간‼️115년 영업 중인 일본에서 제일 오래 된 다방☕️",
+    "map_url": "https://maps.app.goo.gl/BmuqU3AAgPjeV8T87",
+    "region": "긴자(銀座)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "카페"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "도사남 DoSaNam"
+    ],
+    "google_rating": 4.8,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/6zEgDhKlECc/maxresdefault.jpg",
+    "video_id": "6zEgDhKlECc",
+    "published_at": "2026-01-19T10:00:17Z",
+    "view_count": 36885,
+    "final_score": 58.0
+  },
+  {
+    "id": "rest_53205",
+    "name": "아침 부터 참치🐟무제한으로 먹을수 있는 일본 No.2 호텔🏨",
+    "map_url": "https://maps.app.goo.gl/ogqwdQPFsAgRjDn19",
+    "region": "아사쿠사(浅草)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "도쿄맛집"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "도사남 DoSaNam"
+    ],
+    "google_rating": 4.7,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/1z8J_0fQPQA/maxresdefault.jpg",
+    "video_id": "1z8J_0fQPQA",
+    "published_at": "2026-03-20T11:00:18Z",
+    "view_count": 62465,
+    "final_score": 57.0
+  },
+  {
+    "id": "rest_80539",
+    "name": "어른들만 들어 갈수 있는 수상한 일본 가게‼️세탁소 아님‼️ '도쿄 아사가야' 산책",
+    "map_url": "https://maps.app.goo.gl/cYvdo9dF8PcV7XFS9",
+    "region": "도쿄(東京)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "도쿄맛집"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "도사남 DoSaNam"
+    ],
+    "google_rating": 4.7,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/kyDGi48NU50/maxresdefault.jpg",
+    "video_id": "kyDGi48NU50",
+    "published_at": "2026-02-06T10:01:12Z",
+    "view_count": 46195,
+    "final_score": 57.0
+  },
+  {
+    "id": "rest_69268",
+    "name": "압도적인 맛과 비주얼의 일본 카레 명점🍛 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/V27mPi9GTvMBd3rH8",
+    "region": "시부야(渋谷)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "도쿄맛집"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "토요일의 도쿄"
+    ],
+    "google_rating": 4.7,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/AbCxry-GtxQ/maxresdefault.jpg",
+    "video_id": "AbCxry-GtxQ",
+    "published_at": "2025-11-29T01:00:13Z",
+    "view_count": 19471,
+    "final_score": 57.0
+  },
+  {
+    "id": "rest_46617",
+    "name": "모르면 손해! 무조건 저장각인 시부야 철판구이집 그리고 솔직 근황썰 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/7qwqEJHcF5upZAvAA",
+    "region": "시부야(渋谷)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "혼밥가능"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "토요일의 도쿄"
+    ],
+    "google_rating": 4.7,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/aICBSRlkT7w/maxresdefault.jpg",
+    "video_id": "aICBSRlkT7w",
+    "published_at": "2025-09-13T11:53:18Z",
+    "view_count": 38997,
+    "final_score": 57.0
+  },
+  {
+    "id": "rest_21702",
+    "name": "일본 부유층 고급 마트 갔다가 파산💥 할뻔 했습니다‼️",
+    "map_url": "https://maps.app.goo.gl/EWA4aTER7t5Y2UF8A",
+    "region": "도쿄(東京)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "프리미엄"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "도사남 DoSaNam"
+    ],
+    "google_rating": 4.6,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/GYt4dGeHW8U/maxresdefault.jpg",
+    "video_id": "GYt4dGeHW8U",
+    "published_at": "2026-01-16T10:00:21Z",
+    "view_count": 100163,
+    "final_score": 56.0
+  },
+  {
+    "id": "rest_62661",
+    "name": "시부야 유명 츠케멘 맛집. 배 터질 각오하고 가세요 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/iuq4osenSuQR5RDc9",
+    "region": "시부야(渋谷)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "도쿄맛집"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "토요일의 도쿄"
+    ],
+    "google_rating": 4.6,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/pBq9IIkrB0A/maxresdefault.jpg",
+    "video_id": "pBq9IIkrB0A",
+    "published_at": "2025-10-05T07:54:26Z",
+    "view_count": 47003,
+    "final_score": 56.0
+  },
+  {
+    "id": "rest_89171",
+    "name": "일본 현지에서 찾은 이상적인 스키야키 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/fCJ2sU6gfn2mTFTX9",
+    "region": "신주쿠(新宿)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "혼밥가능"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "토요일의 도쿄"
+    ],
+    "google_rating": 4.6,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/O0GIGPzOGF8/maxresdefault.jpg",
+    "video_id": "O0GIGPzOGF8",
+    "published_at": "2025-09-20T00:30:17Z",
+    "view_count": 23257,
+    "final_score": 56.0
+  },
+  {
+    "id": "rest_61317",
     "name": "공복에 보면 상당히 위험한 도쿄 로컬 야키니쿠 도쿄 맛집 여행",
     "map_url": "https://maps.app.goo.gl/QskBTsFZwNovB6jD7",
     "region": "도쿄(東京)",
@@ -74,258 +354,15 @@
     "channels": [
       "토요일의 도쿄"
     ],
-    "google_rating": 4.8,
+    "google_rating": 4.6,
     "restaurant_thumbnail": "https://img.youtube.com/vi/gS_B2XJNCek/maxresdefault.jpg",
     "video_id": "gS_B2XJNCek",
     "published_at": "2025-07-12T01:00:51Z",
-    "view_count": 46820,
-    "final_score": 58.0
-  },
-  {
-    "id": "rest_99872",
-    "name": "기존에 없던 라멘 장르를 개척한 도쿄 라멘🍜집",
-    "map_url": "https://maps.app.goo.gl/5PUmFePBr5VSYQRk8",
-    "region": "도쿄(東京)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "라멘"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "도사남 DoSaNam"
-    ],
-    "google_rating": 4.7,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/HYybq9G7mVc/maxresdefault.jpg",
-    "video_id": "HYybq9G7mVc",
-    "published_at": "2026-03-16T10:30:19Z",
-    "view_count": 48492,
-    "final_score": 57.0
-  },
-  {
-    "id": "rest_26705",
-    "name": "긴자에서 맛보는 일본 대표 국물음식 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/yRAUgX3K81d47Tn66",
-    "region": "긴자(銀座)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "혼밥가능"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "토요일의 도쿄"
-    ],
-    "google_rating": 4.7,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/VirUwMmhQXQ/maxresdefault.jpg",
-    "video_id": "VirUwMmhQXQ",
-    "published_at": "2025-10-19T12:59:39Z",
-    "view_count": 21639,
-    "final_score": 57.0
-  },
-  {
-    "id": "rest_36016",
-    "name": "시부야 유명 츠케멘 맛집. 배 터질 각오하고 가세요 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/iuq4osenSuQR5RDc9",
-    "region": "시부야(渋谷)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "도쿄맛집"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "토요일의 도쿄"
-    ],
-    "google_rating": 4.7,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/pBq9IIkrB0A/maxresdefault.jpg",
-    "video_id": "pBq9IIkrB0A",
-    "published_at": "2025-10-05T07:54:26Z",
-    "view_count": 46950,
-    "final_score": 57.0
-  },
-  {
-    "id": "rest_11149",
-    "name": "신주쿠 동네 형님들의 야키토리 성지부터 니보시 라멘 최강자 나기. 그리고 전세계 사람이 모",
-    "map_url": "https://maps.app.goo.gl/dwarzfQHiS46WzAL8",
-    "region": "신주쿠(新宿)",
-    "address": "〒160-0022 Tokyo, Shinjuku City, Shinjuku, 6 Chome−27−11 山根ビル",
-    "atmosphere_tags": [
-      "라멘"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "토요일의 도쿄"
-    ],
-    "google_rating": 4.7,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/7UtiHhBpxxo/maxresdefault.jpg",
-    "video_id": "7UtiHhBpxxo",
-    "published_at": "2025-09-06T08:00:10Z",
-    "view_count": 56750,
-    "final_score": 57.0
-  },
-  {
-    "id": "rest_16995",
-    "name": "몇년 만에 폭설❄️내린 도쿄🗼 5cm만 싸여도 교통 마비⁉️",
-    "map_url": "https://maps.app.goo.gl/fVkSvkxo7pSFqhvG8",
-    "region": "도쿄(東京)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "라멘"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "도사남 DoSaNam"
-    ],
-    "google_rating": 4.6,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/7ybj6-h2oPI/maxresdefault.jpg",
-    "video_id": "7ybj6-h2oPI",
-    "published_at": "2026-02-09T10:03:33Z",
-    "view_count": 38488,
+    "view_count": 46836,
     "final_score": 56.0
   },
   {
-    "id": "rest_78102",
-    "name": "어른들만 들어 갈수 있는 수상한 일본 가게‼️세탁소 아님‼️ '도쿄 아사가야' 산책",
-    "map_url": "https://maps.app.goo.gl/cYvdo9dF8PcV7XFS9",
-    "region": "도쿄(東京)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "도쿄맛집"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "도사남 DoSaNam"
-    ],
-    "google_rating": 4.6,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/kyDGi48NU50/maxresdefault.jpg",
-    "video_id": "kyDGi48NU50",
-    "published_at": "2026-02-06T10:01:12Z",
-    "view_count": 46168,
-    "final_score": 56.0
-  },
-  {
-    "id": "rest_90884",
-    "name": "일본인들이 마늘을 우리보다 많이 먹을줄이야;; 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/TG1pmDT5rL8KRtwJ8",
-    "region": "신주쿠(新宿)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "혼밥가능",
-      "줄서는맛집"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "토요일의 도쿄"
-    ],
-    "google_rating": 4.6,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/CC-pxw5U2nA/maxresdefault.jpg",
-    "video_id": "CC-pxw5U2nA",
-    "published_at": "2026-03-28T01:00:16Z",
-    "view_count": 7911,
-    "final_score": 56.0
-  },
-  {
-    "id": "rest_13702",
-    "name": "모르면 손해! 무조건 저장각인 시부야 철판구이집 그리고 솔직 근황썰 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/7qwqEJHcF5upZAvAA",
-    "region": "시부야(渋谷)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "혼밥가능"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "토요일의 도쿄"
-    ],
-    "google_rating": 4.6,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/aICBSRlkT7w/maxresdefault.jpg",
-    "video_id": "aICBSRlkT7w",
-    "published_at": "2025-09-13T11:53:18Z",
-    "view_count": 38959,
-    "final_score": 56.0
-  },
-  {
-    "id": "rest_43773",
-    "name": "일식을 좋아하는 사람이라면 더더욱 일본 소도시 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/GCgwrfoJzxtBMiNE9",
-    "region": "도쿄(東京)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "라멘",
-      "스시",
-      "이자카야"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "토요일의 도쿄"
-    ],
-    "google_rating": 4.5,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/v3chzxmto4M/maxresdefault.jpg",
-    "video_id": "v3chzxmto4M",
-    "published_at": "2025-09-28T11:13:32Z",
-    "view_count": 329919,
-    "final_score": 55.0
-  },
-  {
-    "id": "rest_06461",
-    "name": "90년대 레트로가 유행인데...왜 그 시절 음식은 안 돌아오나요? 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/ASqcAHphu2pgd1r66",
-    "region": "시부야(渋谷)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "도쿄맛집"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "토요일의 도쿄"
-    ],
-    "google_rating": 4.5,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/G4dtX09QoKs/maxresdefault.jpg",
-    "video_id": "G4dtX09QoKs",
-    "published_at": "2025-07-26T04:14:03Z",
-    "view_count": 29717,
-    "final_score": 55.0
-  },
-  {
-    "id": "rest_26358",
-    "name": "15년 시부야 주민의 점심 맛집 가이드. 더 터지기 전에 얼른 가세요 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/BV3ZGk2jE5vDBq9P8",
-    "region": "시부야(渋谷)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "도쿄맛집"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "토요일의 도쿄"
-    ],
-    "google_rating": 4.5,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/czMhWBxGilU/maxresdefault.jpg",
-    "video_id": "czMhWBxGilU",
-    "published_at": "2025-07-05T01:00:56Z",
-    "view_count": 69373,
-    "final_score": 55.0
-  },
-  {
-    "id": "rest_64609",
-    "name": "느.좋 동네 시모키타자와에서 먹고 마시는 1일 코스 알려드립니다 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/i6cAQTPZJe69ndmK9",
-    "region": "시모키타자와(下北沢)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "도쿄맛집"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "토요일의 도쿄"
-    ],
-    "google_rating": 4.5,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/U54AvFPyqak/maxresdefault.jpg",
-    "video_id": "U54AvFPyqak",
-    "published_at": "2025-06-28T10:38:39Z",
-    "view_count": 61318,
-    "final_score": 55.0
-  },
-  {
-    "id": "rest_12373",
+    "id": "rest_40359",
     "name": "교자 원툴 일본 중소도시에서 1박2일 교자만 먹다",
     "map_url": "https://maps.app.goo.gl/52qzrWSFnPFnfFeo6",
     "region": "도쿄(東京)",
@@ -337,17 +374,37 @@
     "channels": [
       "토요일의 도쿄"
     ],
-    "google_rating": 4.5,
+    "google_rating": 4.6,
     "restaurant_thumbnail": "https://img.youtube.com/vi/vLiXbm-nnWc/maxresdefault.jpg",
     "video_id": "vLiXbm-nnWc",
     "published_at": "2025-06-07T05:12:55Z",
-    "view_count": 44029,
+    "view_count": 44047,
+    "final_score": 56.0
+  },
+  {
+    "id": "rest_56665",
+    "name": "일본 백화점 1시간 웨이팅 필수라는 프리미엄 회전초밥집을 가보다",
+    "map_url": "https://maps.app.goo.gl/rGEn8foBH6nHxFBZ8",
+    "region": "시부야(渋谷)",
+    "address": "〒150-0042 Tokyo, Shibuya, Udagawacho, 15−1 渋谷PARCO 7F",
+    "atmosphere_tags": [
+      "스시"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "토요일의 도쿄"
+    ],
+    "google_rating": 4.5,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/uW-jGvpXk2o/maxresdefault.jpg",
+    "video_id": "uW-jGvpXk2o",
+    "published_at": "2026-01-03T01:01:18Z",
+    "view_count": 29526,
     "final_score": 55.0
   },
   {
-    "id": "rest_82617",
-    "name": "일본 겨울❄️ 여행지 순위 1위⁉️ 니이가타 설국 직접 가봄‼️ 숨은 명소",
-    "map_url": "https://maps.app.goo.gl/hMx5WZ8LWYDNVrFa8",
+    "id": "rest_68332",
+    "name": "“제 인생 야키토리 집인데요…!!” 과연 그 맛은?! 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/uGBWHt7nQud4vs7m9",
     "region": "도쿄(東京)",
     "address": "도쿄도 (상세 주소 미기재)",
     "atmosphere_tags": [
@@ -355,40 +412,81 @@
     ],
     "overlap_count": 1,
     "channels": [
-      "도사남 DoSaNam"
+      "토요일의 도쿄"
     ],
-    "google_rating": 4.4,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/Gt0jvmJawCs/maxresdefault.jpg",
-    "video_id": "Gt0jvmJawCs",
-    "published_at": "2026-02-20T10:00:22Z",
-    "view_count": 40069,
-    "final_score": 54.0
+    "google_rating": 4.5,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/rNeUfF5AKJU/maxresdefault.jpg",
+    "video_id": "rNeUfF5AKJU",
+    "published_at": "2025-05-17T01:00:59Z",
+    "view_count": 38708,
+    "final_score": 55.0
   },
   {
-    "id": "rest_38291",
-    "name": "일본 부유층 고급 마트 갔다가 파산💥 할뻔 했습니다‼️",
-    "map_url": "https://maps.app.goo.gl/EWA4aTER7t5Y2UF8A",
+    "id": "rest_37664",
+    "name": "일본인들이 2시간 줄 서서 먹는 한국 국밥 ㄷㄷ",
+    "map_url": "https://maps.app.goo.gl/WB5HCMRd29557PsR6",
     "region": "도쿄(東京)",
     "address": "도쿄도 (상세 주소 미기재)",
     "atmosphere_tags": [
-      "프리미엄"
+      "줄서는맛집"
     ],
     "overlap_count": 1,
     "channels": [
       "도사남 DoSaNam"
     ],
     "google_rating": 4.4,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/GYt4dGeHW8U/maxresdefault.jpg",
-    "video_id": "GYt4dGeHW8U",
-    "published_at": "2026-01-16T10:00:21Z",
-    "view_count": 100091,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/2SyjjCwRjjg/maxresdefault.jpg",
+    "video_id": "2SyjjCwRjjg",
+    "published_at": "2026-01-23T10:00:05Z",
+    "view_count": 100094,
     "final_score": 54.0
   },
   {
-    "id": "rest_25794",
-    "name": "압도적인 맛과 비주얼의 일본 카레 명점🍛 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/V27mPi9GTvMBd3rH8",
-    "region": "시부야(渋谷)",
+    "id": "rest_62624",
+    "name": "일본인들이 마늘을 우리보다 많이 먹을줄이야;;",
+    "map_url": "https://maps.app.goo.gl/TG1pmDT5rL8KRtwJ8",
+    "region": "신주쿠(新宿)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "혼밥가능",
+      "줄서는맛집"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "토요일의 도쿄"
+    ],
+    "google_rating": 4.4,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/CC-pxw5U2nA/maxresdefault.jpg",
+    "video_id": "CC-pxw5U2nA",
+    "published_at": "2026-03-28T01:00:16Z",
+    "view_count": 8769,
+    "final_score": 54.0
+  },
+  {
+    "id": "rest_56492",
+    "name": "요즘 일본 여행 필수 메뉴? 나폴리탄! 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/rUkixgrAXkmZGba36",
+    "region": "도쿄(東京)",
+    "address": "〒100-0004 Tokyo, Chiyoda City, Ōtemachi, 1 Chome−6−1 Otemachi Bldg.,",
+    "atmosphere_tags": [
+      "도쿄맛집"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "토요일의 도쿄"
+    ],
+    "google_rating": 4.4,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/NdRFR54wshQ/maxresdefault.jpg",
+    "video_id": "NdRFR54wshQ",
+    "published_at": "2025-08-23T05:30:26Z",
+    "view_count": 37590,
+    "final_score": 54.0
+  },
+  {
+    "id": "rest_51919",
+    "name": "느.좋 동네 시모키타자와에서 먹고 마시는 1일 코스 알려드립니다 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/i6cAQTPZJe69ndmK9",
+    "region": "시모키타자와(下北沢)",
     "address": "도쿄도 (상세 주소 미기재)",
     "atmosphere_tags": [
       "도쿄맛집"
@@ -398,74 +496,34 @@
       "토요일의 도쿄"
     ],
     "google_rating": 4.4,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/AbCxry-GtxQ/maxresdefault.jpg",
-    "video_id": "AbCxry-GtxQ",
-    "published_at": "2025-11-29T01:00:13Z",
-    "view_count": 19443,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/U54AvFPyqak/maxresdefault.jpg",
+    "video_id": "U54AvFPyqak",
+    "published_at": "2025-06-28T10:38:39Z",
+    "view_count": 61405,
     "final_score": 54.0
   },
   {
-    "id": "rest_49893",
-    "name": "일본인이 환장하는 세 가지. 한 동네에서 다 먹고 오기 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/7QW9XnAjVd61VMPS8",
+    "id": "rest_26560",
+    "name": "도쿄 3대 부촌 \"시로카네다이\" 상류층 삶 반나절 간접 체험‼️",
+    "map_url": "https://maps.app.goo.gl/F5TE2JMdNUrzZN6s6",
     "region": "도쿄(東京)",
     "address": "도쿄도 (상세 주소 미기재)",
     "atmosphere_tags": [
-      "라멘"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "토요일의 도쿄"
-    ],
-    "google_rating": 4.4,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/dpPNth2LA34/maxresdefault.jpg",
-    "video_id": "dpPNth2LA34",
-    "published_at": "2025-11-12T08:04:30Z",
-    "view_count": 25520,
-    "final_score": 54.0
-  },
-  {
-    "id": "rest_03081",
-    "name": "동네 주민 전부 쯔양⁉️충격의💥 일본 대식가 전용 식당⁉️",
-    "map_url": "https://maps.app.goo.gl/zphFHqoiufZujqK38",
-    "region": "도쿄(東京)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "도쿄맛집"
+      "카페"
     ],
     "overlap_count": 1,
     "channels": [
       "도사남 DoSaNam"
     ],
     "google_rating": 4.3,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/DtJcl7eMKJI/maxresdefault.jpg",
-    "video_id": "DtJcl7eMKJI",
-    "published_at": "2026-03-02T10:00:30Z",
-    "view_count": 53066,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/LCXK7EFX4wE/maxresdefault.jpg",
+    "video_id": "LCXK7EFX4wE",
+    "published_at": "2026-03-13T10:00:37Z",
+    "view_count": 110597,
     "final_score": 53.0
   },
   {
-    "id": "rest_52323",
-    "name": "유명해 지기 전에 가세요‼️아직 때 문지 않은 일본 겨울❄️ 온천♨️ 휴양지‼️ \"오유 온",
-    "map_url": "https://maps.app.goo.gl/N8kQezstxvukf9Rv9",
-    "region": "도쿄(東京)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "도쿄맛집"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "도사남 DoSaNam"
-    ],
-    "google_rating": 4.3,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/zpUHiDUpjdw/maxresdefault.jpg",
-    "video_id": "zpUHiDUpjdw",
-    "published_at": "2026-02-27T10:01:40Z",
-    "view_count": 25673,
-    "final_score": 53.0
-  },
-  {
-    "id": "rest_92028",
+    "id": "rest_17075",
     "name": "최고급 일본 사케🍶는 천연 눈❄️으로만 숙성 시킴‼️",
     "map_url": "https://maps.app.goo.gl/MyCaGbLW1RJXyytL7",
     "region": "도쿄(東京)",
@@ -481,111 +539,113 @@
     "restaurant_thumbnail": "https://img.youtube.com/vi/jtFwtkeJYgI/maxresdefault.jpg",
     "video_id": "jtFwtkeJYgI",
     "published_at": "2026-02-23T10:01:08Z",
-    "view_count": 24593,
+    "view_count": 24606,
     "final_score": 53.0
   },
   {
-    "id": "rest_43891",
-    "name": "일본인들이 2시간 줄 서서 먹는 한국 국밥 ㄷㄷ",
-    "map_url": "https://maps.app.goo.gl/WB5HCMRd29557PsR6",
-    "region": "도쿄(東京)",
-    "address": "도쿄도 (상세 주소 미기재)",
+    "id": "rest_25381",
+    "name": "한국인 리뷰0! 쌀에 진심인 신주쿠 이자카야 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/bPzSUrYnjX5D7n6y5",
+    "region": "신주쿠(新宿)",
+    "address": "〒163-0590 Tokyo, Shinjuku City, Nishishinjuku, 1 Chome−26−2 新宿野村ビル B1",
     "atmosphere_tags": [
-      "줄서는맛집"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "도사남 DoSaNam"
-    ],
-    "google_rating": 4.3,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/2SyjjCwRjjg/maxresdefault.jpg",
-    "video_id": "2SyjjCwRjjg",
-    "published_at": "2026-01-23T10:00:05Z",
-    "view_count": 100082,
-    "final_score": 53.0
-  },
-  {
-    "id": "rest_14194",
-    "name": "도쿄 택시🚕 기사님들의 24시간 비밀 맛집‼️닛포리 여행,맛집",
-    "map_url": "https://maps.app.goo.gl/ZbfTrWqHk6MSE3rL8",
-    "region": "도쿄(東京)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "도쿄맛집"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "도사남 DoSaNam"
-    ],
-    "google_rating": 4.3,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/Jl9yBMkvF_U/maxresdefault.jpg",
-    "video_id": "Jl9yBMkvF_U",
-    "published_at": "2026-01-12T10:00:29Z",
-    "view_count": 56243,
-    "final_score": 53.0
-  },
-  {
-    "id": "rest_01068",
-    "name": "도쿄 사람들이 많이 가는 미국 맛집 5곳 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/T8fxwzWwsuy8hP1i8",
-    "region": "시부야(渋谷)",
-    "address": "〒151-0053 Tokyo, Shibuya, Yoyogi, 1 Chome−37−1 大善 ビル 1F",
-    "atmosphere_tags": [
-      "도쿄맛집"
+      "혼밥가능",
+      "이자카야"
     ],
     "overlap_count": 1,
     "channels": [
       "토요일의 도쿄"
     ],
     "google_rating": 4.3,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/HzNYhmvwJ5E/maxresdefault.jpg",
-    "video_id": "HzNYhmvwJ5E",
-    "published_at": "2026-03-15T01:00:24Z",
-    "view_count": 15262,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/yqMQFfR4Vgs/maxresdefault.jpg",
+    "video_id": "yqMQFfR4Vgs",
+    "published_at": "2026-03-07T02:32:28Z",
+    "view_count": 18637,
     "final_score": 53.0
   },
   {
-    "id": "rest_91457",
-    "name": "일본 현지인으로 항상 만석인 양고기 집 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/CeUaDN9amkb13v4s8",
+    "id": "rest_66284",
+    "name": "년 270억 파는 일본의 \"성심당\" 지역 빵🥖집",
+    "map_url": "https://maps.app.goo.gl/gCmftMiQ85aZ6W6A9",
     "region": "도쿄(東京)",
-    "address": "〒154-0024 Tokyo, Setagaya City, Sangenjaya, 1 Chome−36−8 由上ビル 1F",
+    "address": "도쿄도 (상세 주소 미기재)",
     "atmosphere_tags": [
+      "도쿄맛집"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "도사남 DoSaNam"
+    ],
+    "google_rating": 4.2,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/2HYCk4K1g48/maxresdefault.jpg",
+    "video_id": "2HYCk4K1g48",
+    "published_at": "2026-03-30T10:00:01Z",
+    "view_count": 15588,
+    "final_score": 52.0
+  },
+  {
+    "id": "rest_90543",
+    "name": "맛으로 끝!! 일본 현지인 사이에서 맛있기로 소문난 숯불 돼지 꼬치구이집 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/SZr64f1HJ4F1sEKy5",
+    "region": "시나가와(品川)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "혼밥가능",
       "현지인추천"
     ],
     "overlap_count": 1,
     "channels": [
       "토요일의 도쿄"
     ],
-    "google_rating": 4.3,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/QZOIPnxjyp8/maxresdefault.jpg",
-    "video_id": "QZOIPnxjyp8",
-    "published_at": "2025-08-17T01:30:01Z",
-    "view_count": 36724,
-    "final_score": 53.0
+    "google_rating": 4.2,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/38t9FsW2IFg/maxresdefault.jpg",
+    "video_id": "38t9FsW2IFg",
+    "published_at": "2025-10-12T12:33:37Z",
+    "view_count": 27435,
+    "final_score": 52.0
   },
   {
-    "id": "rest_07538",
-    "name": "일본 돈가스에 한 획을 그은 100년 원조집을 가보다 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/uf11o7DxcV1BywBS9",
-    "region": "우에노(上野)",
+    "id": "rest_53689",
+    "name": "맥주 한 캔 준비하고 보세요🍻 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/pzkZjrKwrwtLKuWQ8",
+    "region": "시부야(渋谷)",
     "address": "도쿄도 (상세 주소 미기재)",
     "atmosphere_tags": [
-      "도쿄맛집"
+      "이자카야"
     ],
     "overlap_count": 1,
     "channels": [
       "토요일의 도쿄"
     ],
-    "google_rating": 4.3,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/uLpfrTFdbI0/maxresdefault.jpg",
-    "video_id": "uLpfrTFdbI0",
-    "published_at": "2025-05-31T01:00:57Z",
-    "view_count": 45160,
-    "final_score": 53.0
+    "google_rating": 4.2,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/cS2p6Tl0EOs/maxresdefault.jpg",
+    "video_id": "cS2p6Tl0EOs",
+    "published_at": "2025-06-14T10:07:09Z",
+    "view_count": 25863,
+    "final_score": 52.0
   },
   {
-    "id": "rest_34516",
+    "id": "rest_96735",
+    "name": "기존에 없던 라멘 장르를 개척한 도쿄 라멘🍜집",
+    "map_url": "https://maps.app.goo.gl/5PUmFePBr5VSYQRk8",
+    "region": "도쿄(東京)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "라멘"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "도사남 DoSaNam"
+    ],
+    "google_rating": 4.1,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/HYybq9G7mVc/maxresdefault.jpg",
+    "video_id": "HYybq9G7mVc",
+    "published_at": "2026-03-16T10:30:19Z",
+    "view_count": 48645,
+    "final_score": 51.0
+  },
+  {
+    "id": "rest_59664",
     "name": "오픈 1년만에 라멘 상🏆만 3개 받은 도쿄 1위 라멘🍜집",
     "map_url": "https://maps.app.goo.gl/zmzJFkYf6fQehq8G6",
     "region": "도쿄(東京)",
@@ -597,135 +657,75 @@
     "channels": [
       "도사남 DoSaNam"
     ],
-    "google_rating": 4.2,
+    "google_rating": 4.1,
     "restaurant_thumbnail": "https://img.youtube.com/vi/wf8Pf8P_qiM/maxresdefault.jpg",
     "video_id": "wf8Pf8P_qiM",
     "published_at": "2026-02-02T10:01:30Z",
-    "view_count": 61604,
-    "final_score": 52.0
+    "view_count": 61623,
+    "final_score": 51.0
   },
   {
-    "id": "rest_32218",
-    "name": "도쿄 생활 15년 잠시 쉬어갑니다... 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/rYhacvbwszrc3Sxo9",
-    "region": "신주쿠(新宿)",
-    "address": "〒151-0072 Tokyo, Shibuya, Hatagaya, 1 Chome−4−1 花ビル 1F",
+    "id": "rest_25831",
+    "name": "긴자에서 맛보는 일본 대표 국물음식 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/yRAUgX3K81d47Tn66",
+    "region": "긴자(銀座)",
+    "address": "도쿄도 (상세 주소 미기재)",
     "atmosphere_tags": [
-      "라멘"
+      "혼밥가능"
     ],
     "overlap_count": 1,
     "channels": [
       "토요일의 도쿄"
     ],
-    "google_rating": 4.2,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/R5J_xi2Cr-E/maxresdefault.jpg",
-    "video_id": "R5J_xi2Cr-E",
-    "published_at": "2025-05-24T01:52:07Z",
-    "view_count": 26304,
-    "final_score": 52.0
+    "google_rating": 4.1,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/VirUwMmhQXQ/maxresdefault.jpg",
+    "video_id": "VirUwMmhQXQ",
+    "published_at": "2025-10-19T12:59:39Z",
+    "view_count": 21648,
+    "final_score": 51.0
   },
   {
-    "id": "rest_38908",
-    "name": "아침 부터 참치🐟무제한으로 먹을수 있는 일본 No.2 호텔🏨",
-    "map_url": "https://maps.app.goo.gl/ogqwdQPFsAgRjDn19",
-    "region": "아사쿠사(浅草)",
+    "id": "rest_31957",
+    "name": "일본 돈가스에 한 획을 그은 100년 원조집을 가보다 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/uf11o7DxcV1BywBS9",
+    "region": "우에노(上野)",
     "address": "도쿄도 (상세 주소 미기재)",
     "atmosphere_tags": [
       "도쿄맛집"
     ],
     "overlap_count": 1,
     "channels": [
-      "도사남 DoSaNam"
-    ],
-    "google_rating": 4.1,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/1z8J_0fQPQA/maxresdefault.jpg",
-    "video_id": "1z8J_0fQPQA",
-    "published_at": "2026-03-20T11:00:18Z",
-    "view_count": 61868,
-    "final_score": 51.0
-  },
-  {
-    "id": "rest_58034",
-    "name": "도쿄 3대 부촌 \"시로카네다이\" 상류층 삶 반나절 간접 체험‼️",
-    "map_url": "https://maps.app.goo.gl/F5TE2JMdNUrzZN6s6",
-    "region": "도쿄(東京)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "카페"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "도사남 DoSaNam"
-    ],
-    "google_rating": 4.1,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/LCXK7EFX4wE/maxresdefault.jpg",
-    "video_id": "LCXK7EFX4wE",
-    "published_at": "2026-03-13T10:00:37Z",
-    "view_count": 110090,
-    "final_score": 51.0
-  },
-  {
-    "id": "rest_65075",
-    "name": "일본 백화점 1시간 웨이팅 필수라는 프리미엄 회전초밥집을 가보다",
-    "map_url": "https://maps.app.goo.gl/rGEn8foBH6nHxFBZ8",
-    "region": "시부야(渋谷)",
-    "address": "〒150-0042 Tokyo, Shibuya, Udagawacho, 15−1 渋谷PARCO 7F",
-    "atmosphere_tags": [
-      "스시"
-    ],
-    "overlap_count": 1,
-    "channels": [
       "토요일의 도쿄"
     ],
     "google_rating": 4.1,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/uW-jGvpXk2o/maxresdefault.jpg",
-    "video_id": "uW-jGvpXk2o",
-    "published_at": "2026-01-03T01:01:18Z",
-    "view_count": 29506,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/uLpfrTFdbI0/maxresdefault.jpg",
+    "video_id": "uLpfrTFdbI0",
+    "published_at": "2025-05-31T01:00:57Z",
+    "view_count": 45183,
     "final_score": 51.0
   },
   {
-    "id": "rest_71041",
-    "name": "요즘 일본 여행 필수 메뉴? 나폴리탄! 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/rUkixgrAXkmZGba36",
+    "id": "rest_52195",
+    "name": "일본 겨울❄️ 여행지 순위 1위⁉️ 니이가타 설국 직접 가봄‼️ 숨은 명소",
+    "map_url": "https://maps.app.goo.gl/hMx5WZ8LWYDNVrFa8",
     "region": "도쿄(東京)",
-    "address": "〒100-0004 Tokyo, Chiyoda City, Ōtemachi, 1 Chome−6−1 Otemachi Bldg.,",
+    "address": "도쿄도 (상세 주소 미기재)",
     "atmosphere_tags": [
       "도쿄맛집"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "토요일의 도쿄"
-    ],
-    "google_rating": 4.1,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/NdRFR54wshQ/maxresdefault.jpg",
-    "video_id": "NdRFR54wshQ",
-    "published_at": "2025-08-23T05:30:26Z",
-    "view_count": 37576,
-    "final_score": 51.0
-  },
-  {
-    "id": "rest_85514",
-    "name": "요즘 선 많이 넘는 일본 회전 초밥🍣집 근황",
-    "map_url": "https://maps.app.goo.gl/suZhczQD9BSawmvt7",
-    "region": "시부야(渋谷)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "스시"
     ],
     "overlap_count": 1,
     "channels": [
       "도사남 DoSaNam"
     ],
     "google_rating": 4.0,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/YvWhq-fLErQ/maxresdefault.jpg",
-    "video_id": "YvWhq-fLErQ",
-    "published_at": "2026-03-06T10:01:02Z",
-    "view_count": 46141,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/Gt0jvmJawCs/maxresdefault.jpg",
+    "video_id": "Gt0jvmJawCs",
+    "published_at": "2026-02-20T10:00:22Z",
+    "view_count": 40088,
     "final_score": 50.0
   },
   {
-    "id": "rest_91707",
+    "id": "rest_40441",
     "name": "일본 동네 빵🥖집이 안 망하고 오래 장사 하는 이유‼️",
     "map_url": "https://maps.app.goo.gl/uGEiEZWE5nwGi38w5",
     "region": "도쿄(東京)",
@@ -741,36 +741,15 @@
     "restaurant_thumbnail": "https://img.youtube.com/vi/Fy-U7fNy-zM/maxresdefault.jpg",
     "video_id": "Fy-U7fNy-zM",
     "published_at": "2026-02-13T10:00:31Z",
-    "view_count": 25672,
+    "view_count": 25697,
     "final_score": 50.0
   },
   {
-    "id": "rest_98981",
-    "name": "맛으로 끝!! 일본 현지인 사이에서 맛있기로 소문난 숯불 돼지 꼬치구이집 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/SZr64f1HJ4F1sEKy5",
-    "region": "시나가와(品川)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "혼밥가능",
-      "현지인추천"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "토요일의 도쿄"
-    ],
-    "google_rating": 4.0,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/38t9FsW2IFg/maxresdefault.jpg",
-    "video_id": "38t9FsW2IFg",
-    "published_at": "2025-10-12T12:33:37Z",
-    "view_count": 27403,
-    "final_score": 50.0
-  },
-  {
-    "id": "rest_13141",
-    "name": "매콤 칼칼한 신주쿠 해장 라멘🔥 숙취가 싹~사라지는 마법의 생선 국물 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/zM2eSygtXf9tTe9D7",
+    "id": "rest_40414",
+    "name": "신주쿠 동네 형님들의 야키토리 성지부터 니보시 라멘 최강자 나기. 그리고 전세계 사람이 모",
+    "map_url": "https://maps.app.goo.gl/dwarzfQHiS46WzAL8",
     "region": "신주쿠(新宿)",
-    "address": "〒160-0022 Tokyo, Shinjuku City, Shinjuku, 3 Cho",
+    "address": "〒160-0022 Tokyo, Shinjuku City, Shinjuku, 6 Chome−27−11 山根ビル",
     "atmosphere_tags": [
       "라멘"
     ],
@@ -779,14 +758,136 @@
       "토요일의 도쿄"
     ],
     "google_rating": 4.0,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/UD7xEUQ91wQ/maxresdefault.jpg",
-    "video_id": "UD7xEUQ91wQ",
-    "published_at": "2025-07-19T03:35:35Z",
-    "view_count": 25749,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/7UtiHhBpxxo/maxresdefault.jpg",
+    "video_id": "7UtiHhBpxxo",
+    "published_at": "2025-09-06T08:00:10Z",
+    "view_count": 56814,
     "final_score": 50.0
   },
   {
-    "id": "rest_89639",
+    "id": "rest_82977",
+    "name": "1년 내내 이날만 기다렸다!!🔥 100만 명과 함께 즐기는 도쿄 역대급 축제🎊 도쿄 맛집 ",
+    "map_url": "https://maps.app.goo.gl/TRtRUU7uhrgBpquMA",
+    "region": "도쿄(東京)",
+    "address": "〒166-0003 Tokyo, Suginami City, Koenjiminami, 4 Chome−8−5 1F",
+    "atmosphere_tags": [
+      "도쿄맛집"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "토요일의 도쿄"
+    ],
+    "google_rating": 4.0,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/PilqC9GzGwE/maxresdefault.jpg",
+    "video_id": "PilqC9GzGwE",
+    "published_at": "2025-08-30T04:10:27Z",
+    "view_count": 32952,
+    "final_score": 50.0
+  },
+  {
+    "id": "rest_12947",
+    "name": "일본 현지인으로 항상 만석인 양고기 집 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/CeUaDN9amkb13v4s8",
+    "region": "도쿄(東京)",
+    "address": "〒154-0024 Tokyo, Setagaya City, Sangenjaya, 1 Chome−36−8 由上ビル 1F",
+    "atmosphere_tags": [
+      "현지인추천"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "토요일의 도쿄"
+    ],
+    "google_rating": 4.0,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/QZOIPnxjyp8/maxresdefault.jpg",
+    "video_id": "QZOIPnxjyp8",
+    "published_at": "2025-08-17T01:30:01Z",
+    "view_count": 36760,
+    "final_score": 50.0
+  },
+  {
+    "id": "rest_25258",
+    "name": "90년대 레트로가 유행인데...왜 그 시절 음식은 안 돌아오나요? 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/ASqcAHphu2pgd1r66",
+    "region": "시부야(渋谷)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "도쿄맛집"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "토요일의 도쿄"
+    ],
+    "google_rating": 4.0,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/G4dtX09QoKs/maxresdefault.jpg",
+    "video_id": "G4dtX09QoKs",
+    "published_at": "2025-07-26T04:14:03Z",
+    "view_count": 29726,
+    "final_score": 50.0
+  },
+  {
+    "id": "rest_92330",
+    "name": "오픈과 동시에 만석되는 도쿄 술꾼들의 오아시스🍻🐟 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/sQdm8UzcD6wXv2R59",
+    "region": "도쿄(東京)",
+    "address": "〒101-0051 Tokyo, Chiyoda City, Kanda Jinbocho, 1 Chome−20−7 シャルール神保町",
+    "atmosphere_tags": [
+      "이자카야"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "토요일의 도쿄"
+    ],
+    "google_rating": 3.9,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/1UmxHzcRJQA/maxresdefault.jpg",
+    "video_id": "1UmxHzcRJQA",
+    "published_at": "2025-11-01T01:00:05Z",
+    "view_count": 29526,
+    "final_score": 49.0
+  },
+  {
+    "id": "rest_32550",
+    "name": "일식을 좋아하는 사람이라면 더더욱 일본 소도시 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/GCgwrfoJzxtBMiNE9",
+    "region": "도쿄(東京)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "라멘",
+      "스시",
+      "이자카야"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "토요일의 도쿄"
+    ],
+    "google_rating": 3.9,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/v3chzxmto4M/maxresdefault.jpg",
+    "video_id": "v3chzxmto4M",
+    "published_at": "2025-09-28T11:13:32Z",
+    "view_count": 330472,
+    "final_score": 49.0
+  },
+  {
+    "id": "rest_83737",
+    "name": "15년 시부야 주민의 점심 맛집 가이드. 더 터지기 전에 얼른 가세요 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/BV3ZGk2jE5vDBq9P8",
+    "region": "시부야(渋谷)",
+    "address": "도쿄도 (상세 주소 미기재)",
+    "atmosphere_tags": [
+      "도쿄맛집"
+    ],
+    "overlap_count": 1,
+    "channels": [
+      "토요일의 도쿄"
+    ],
+    "google_rating": 3.9,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/czMhWBxGilU/maxresdefault.jpg",
+    "video_id": "czMhWBxGilU",
+    "published_at": "2025-07-05T01:00:56Z",
+    "view_count": 69457,
+    "final_score": 49.0
+  },
+  {
+    "id": "rest_03304",
     "name": "사랑쨩~ 저녁밥 나니가스키~~? 야노시호 추천 도쿄 맛집을 가보다 도쿄 맛집 여행",
     "map_url": "https://maps.app.goo.gl/Fc8fCt4YQCdc4rfT9",
     "region": "시부야(渋谷)",
@@ -799,152 +900,51 @@
     "channels": [
       "토요일의 도쿄"
     ],
-    "google_rating": 4.0,
+    "google_rating": 3.9,
     "restaurant_thumbnail": "https://img.youtube.com/vi/G1sNoUmLYbw/maxresdefault.jpg",
     "video_id": "G1sNoUmLYbw",
     "published_at": "2025-06-21T02:18:36Z",
-    "view_count": 28501,
-    "final_score": 50.0
+    "view_count": 28511,
+    "final_score": 49.0
   },
   {
-    "id": "rest_60496",
-    "name": "“제 인생 야키토리 집인데요…!!” 과연 그 맛은?! 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/uGBWHt7nQud4vs7m9",
+    "id": "rest_76821",
+    "name": "일본인이 환장하는 세 가지. 한 동네에서 다 먹고 오기 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/7QW9XnAjVd61VMPS8",
     "region": "도쿄(東京)",
     "address": "도쿄도 (상세 주소 미기재)",
     "atmosphere_tags": [
-      "도쿄맛집"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "토요일의 도쿄"
-    ],
-    "google_rating": 4.0,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/rNeUfF5AKJU/maxresdefault.jpg",
-    "video_id": "rNeUfF5AKJU",
-    "published_at": "2025-05-17T01:00:59Z",
-    "view_count": 38677,
-    "final_score": 50.0
-  },
-  {
-    "id": "rest_71898",
-    "name": "1인 영업 라멘집에서 딱 한가지 메뉴만 팔아보면? 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/NpWmN6ZQ7TYaJZRa6",
-    "region": "시부야(渋谷)",
-    "address": "〒151-0072 Tokyo, Shibuya, Hatagaya, 1 Chome−5−7 清水ビル 1F",
-    "atmosphere_tags": [
-      "혼밥가능",
       "라멘"
     ],
     "overlap_count": 1,
     "channels": [
       "토요일의 도쿄"
     ],
-    "google_rating": 3.9,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/_VbZxB9oSmQ/maxresdefault.jpg",
-    "video_id": "_VbZxB9oSmQ",
-    "published_at": "2025-12-13T01:01:01Z",
-    "view_count": 22048,
-    "final_score": 49.0
+    "google_rating": 3.8,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/dpPNth2LA34/maxresdefault.jpg",
+    "video_id": "dpPNth2LA34",
+    "published_at": "2025-11-12T08:04:30Z",
+    "view_count": 25525,
+    "final_score": 48.0
   },
   {
-    "id": "rest_74928",
-    "name": "일본 현지에서 찾은 이상적인 스키야키 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/fCJ2sU6gfn2mTFTX9",
+    "id": "rest_79336",
+    "name": "매콤 칼칼한 신주쿠 해장 라멘🔥 숙취가 싹~사라지는 마법의 생선 국물 도쿄 맛집 여행",
+    "map_url": "https://maps.app.goo.gl/zM2eSygtXf9tTe9D7",
     "region": "신주쿠(新宿)",
-    "address": "도쿄도 (상세 주소 미기재)",
+    "address": "〒160-0022 Tokyo, Shinjuku City, Shinjuku, 3 Cho",
     "atmosphere_tags": [
-      "혼밥가능"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "토요일의 도쿄"
-    ],
-    "google_rating": 3.9,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/O0GIGPzOGF8/maxresdefault.jpg",
-    "video_id": "O0GIGPzOGF8",
-    "published_at": "2025-09-20T00:30:17Z",
-    "view_count": 23239,
-    "final_score": 49.0
-  },
-  {
-    "id": "rest_95307",
-    "name": "맥주 한 캔 준비하고 보세요🍻 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/pzkZjrKwrwtLKuWQ8",
-    "region": "시부야(渋谷)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "이자카야"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "토요일의 도쿄"
-    ],
-    "google_rating": 3.9,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/cS2p6Tl0EOs/maxresdefault.jpg",
-    "video_id": "cS2p6Tl0EOs",
-    "published_at": "2025-06-14T10:07:09Z",
-    "view_count": 25852,
-    "final_score": 49.0
-  },
-  {
-    "id": "rest_01667",
-    "name": "일본 연예인들이 환장하는 도쿄 넘버원 도시락🍱 집",
-    "map_url": "https://maps.app.goo.gl/QdS1B3NZ9uwwGScX8",
-    "region": "도쿄(東京)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "도쿄맛집"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "도사남 DoSaNam"
-    ],
-    "google_rating": 3.8,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/HNo8a_PLgqg/maxresdefault.jpg",
-    "video_id": "HNo8a_PLgqg",
-    "published_at": "2026-01-30T10:00:32Z",
-    "view_count": 67555,
-    "final_score": 48.0
-  },
-  {
-    "id": "rest_93206",
-    "name": "존레논도 3일 연속 다녀간‼️115년 영업 중인 일본에서 제일 오래 된 다방☕️",
-    "map_url": "https://maps.app.goo.gl/BmuqU3AAgPjeV8T87",
-    "region": "긴자(銀座)",
-    "address": "도쿄도 (상세 주소 미기재)",
-    "atmosphere_tags": [
-      "카페"
-    ],
-    "overlap_count": 1,
-    "channels": [
-      "도사남 DoSaNam"
-    ],
-    "google_rating": 3.8,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/6zEgDhKlECc/maxresdefault.jpg",
-    "video_id": "6zEgDhKlECc",
-    "published_at": "2026-01-19T10:00:17Z",
-    "view_count": 36875,
-    "final_score": 48.0
-  },
-  {
-    "id": "rest_10966",
-    "name": "오픈과 동시에 만석되는 도쿄 술꾼들의 오아시스🍻🐟 도쿄 맛집 여행",
-    "map_url": "https://maps.app.goo.gl/sQdm8UzcD6wXv2R59",
-    "region": "도쿄(東京)",
-    "address": "〒101-0051 Tokyo, Chiyoda City, Kanda Jinbocho, 1 Chome−20−7 シャルール神保町",
-    "atmosphere_tags": [
-      "이자카야"
+      "라멘"
     ],
     "overlap_count": 1,
     "channels": [
       "토요일의 도쿄"
     ],
     "google_rating": 3.8,
-    "restaurant_thumbnail": "https://img.youtube.com/vi/1UmxHzcRJQA/maxresdefault.jpg",
-    "video_id": "1UmxHzcRJQA",
-    "published_at": "2025-11-01T01:00:05Z",
-    "view_count": 29504,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/UD7xEUQ91wQ/maxresdefault.jpg",
+    "video_id": "UD7xEUQ91wQ",
+    "published_at": "2025-07-19T03:35:35Z",
+    "view_count": 25759,
     "final_score": 48.0
   }
 ]
