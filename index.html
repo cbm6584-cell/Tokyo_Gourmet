@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TOKYO FOOD MAP — ader error × hybrid score</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Bebas+Neue&family=Noto+Sans+KR:wght@300;400;700;900&display=swap" rel="stylesheet" />
+
+  <style>
+    /* ═══════════════════════════════════════════════════════════════
+       CSS RESET & VARIABLES
+    ═══════════════════════════════════════════════════════════════ */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --cobalt:       #0047AB;
+      --cobalt-light: #1565C0;
+      --cobalt-dark:  #002D6E;
+      --off-white:    #F5F3EE;
+      --cream:        #EDE9E0;
+      --ink:          #0A0A0A;
+      --grey-mid:     #888888;
+      --grey-light:   #CCCCCC;
+      --border-heavy: 3px solid var(--ink);
+      --border-cobalt: 3px solid var(--cobalt);
+      --font-display: 'Bebas Neue', 'Space Grotesk', sans-serif;
+      --font-body:    'Space Grotesk', 'Noto Sans KR', sans-serif;
+      --font-kr:      'Noto Sans KR', 'Space Grotesk', sans-serif;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background-color: var(--off-white);
+      color: var(--ink);
+      font-family: var(--font-body);
+      overflow-x: hidden;
+    }
+
+    ::selection { background: var(--cobalt); color: #fff; }
+
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+      pointer-events: none;
+      z-index: 9999;
+      opacity: 0.6;
+    }
+
+    /* HEADER */
+    header {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 40px;
+      height: 64px;
+      background: var(--off-white);
+      border-bottom: var(--border-heavy);
+    }
+    .header-logo { font-family: var(--font-display); font-size: 22px; letter-spacing: 0.12em; color: var(--ink); text-transform: uppercase; }
+    .header-logo span { color: var(--cobalt); }
+    .header-nav { display: flex; gap: 32px; font-size: 11px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; }
+    .header-nav a { color: var(--ink); text-decoration: none; transition: color 0.2s; }
+    .header-nav a:hover { color: var(--cobalt); }
+    .header-badge { font-size: 10px; font-weight: 700; border: 2px solid var(--cobalt); color: var(--cobalt); padding: 4px 10px; }
+
+    /* HERO */
+    .hero { padding-top: 64px; min-height: 100vh; display: flex; flex-direction: column; justify-content: center; position: relative; overflow: hidden; }
+    .hero-bg-text { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: var(--font-display); font-size: clamp(120px, 20vw, 280px); color: transparent; -webkit-text-stroke: 1px rgba(0, 71, 171, 0.08); white-space: nowrap; pointer-events: none; z-index: 0; }
+    .hero-inner { position: relative; z-index: 1; padding: 80px 40px 60px; max-width: 1400px; margin: 0 auto; width: 100%; }
+    .hero-eyebrow { font-size: 11px; font-weight: 700; letter-spacing: 0.25em; color: var(--cobalt); margin-bottom: 20px; display: flex; align-items: center; gap: 12px; }
+    .hero-eyebrow::before { content: ''; display: inline-block; width: 32px; height: 2px; background: var(--cobalt); }
+    .hero-title { font-family: var(--font-display); font-size: clamp(72px, 12vw, 160px); line-height: 0.9; margin-bottom: 8px; }
+    .hero-title .line-cobalt { color: var(--cobalt); display: block; }
+    .hero-title .line-outline { color: transparent; -webkit-text-stroke: 2px var(--ink); display: block; }
+    .hero-subtitle { font-family: var(--font-kr); font-size: 14px; font-weight: 300; color: var(--grey-mid); margin-top: 24px; max-width: 480px; }
+
+    /* SEARCH */
+    .search-section { padding: 0 40px 80px; max-width: 1400px; margin: 0 auto; position: relative; }
+    .search-label { font-size: 10px; font-weight: 700; letter-spacing: 0.3em; color: var(--grey-mid); margin-bottom: 12px; display: block; }
+    .search-wrapper { position: relative; margin-bottom: 32px; }
+    .search-input { width: 100%; padding: 24px 80px 24px 28px; font-family: var(--font-display); font-size: clamp(24px, 4vw, 48px); color: var(--cobalt); background: transparent; border: var(--border-cobalt); border-width: 4px; outline: none; transition: all 0.3s; }
+    .search-input::placeholder { color: rgba(0, 71, 171, 0.25); }
+    .search-input:focus { background: rgba(0, 71, 171, 0.03); box-shadow: 8px 8px 0 var(--cobalt); }
+    .search-icon { position: absolute; right: 28px; top: 50%; transform: translateY(-50%); font-size: 28px; color: var(--cobalt); }
+    
+    .tag-cloud { position: relative; height: 180px; margin-top: 48px; }
+    .tag-cloud-label { font-size: 10px; font-weight: 700; letter-spacing: 0.3em; color: var(--grey-mid); margin-bottom: 16px; display: block; }
+    .tag-btn { position: absolute; font-family: var(--font-kr); font-size: 12px; font-weight: 700; padding: 8px 16px; border: 2px solid var(--ink); background: transparent; cursor: pointer; transition: all 0.2s; }
+    .tag-btn:hover, .tag-btn.active { background: var(--cobalt); border-color: var(--cobalt); color: #fff; transform: translate(-2px, -2px); box-shadow: 4px 4px 0 var(--ink); }
+    
+    .tag-btn:nth-child(1)  { top: 0px;   left: 0px;   transform: rotate(-2deg); }
+    .tag-btn:nth-child(2)  { top: 8px;   left: 130px; transform: rotate(1.5deg); }
+    .tag-btn:nth-child(3)  { top: -4px;  left: 280px; transform: rotate(-1deg); }
+    .tag-btn:nth-child(4)  { top: 12px;  left: 420px; transform: rotate(2deg); }
+    .tag-btn:nth-child(5)  { top: 0px;   left: 540px; transform: rotate(-0.5deg); }
+    .tag-btn:nth-child(6)  { top: 6px;   left: 680px; transform: rotate(1deg); }
+    .tag-btn:nth-child(7)  { top: 60px;  left: 20px;  transform: rotate(1.5deg); }
+    .tag-btn:nth-child(8)  { top: 55px;  left: 160px; transform: rotate(-2deg); }
+    .tag-btn:nth-child(9)  { top: 65px;  left: 310px; transform: rotate(0.5deg); }
+    .tag-btn:nth-child(10) { top: 58px;  left: 450px; transform: rotate(-1.5deg); }
+    .tag-btn:nth-child(11) { top: 62px;  left: 590px; transform: rotate(2deg); }
+    .tag-btn:nth-child(12) { top: 115px; left: 40px;  transform: rotate(-1deg); }
+    .tag-btn:nth-child(13) { top: 120px; left: 190px; transform: rotate(1deg); }
+    .tag-btn:nth-child(14) { top: 110px; left: 340px; transform: rotate(-2deg); }
+
+    /* FILTER BAR */
+    .filter-bar { display: flex; justify-content: space-between; padding: 20px 40px; border-top: var(--border-heavy); border-bottom: 1px solid var(--grey-light); max-width: 1400px; margin: 0 auto 60px; }
+    .filter-bar-left { font-size: 11px; font-weight: 700; letter-spacing: 0.2em; color: var(--grey-mid); }
+    .filter-bar-left strong { color: var(--cobalt); font-size: 16px; }
+    .sort-btns { display: flex; gap: 8px; }
+    .sort-btn { font-size: 10px; font-weight: 700; padding: 6px 14px; border: 2px solid var(--ink); background: transparent; cursor: pointer; }
+    .sort-btn.active, .sort-btn:hover { background: var(--ink); color: var(--off-white); }
+
+    /* ═══════════════════════════════════════════════════════════════
+       RESTAURANT GRID (수정됨: 완벽한 사이즈 통일)
+    ═══════════════════════════════════════════════════════════════ */
+    .grid-section { padding: 0 40px 120px; max-width: 1400px; margin: 0 auto; }
+    
+    .restaurant-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 24px;
+      position: relative;
+    }
+
+    .r-card {
+      position: relative;
+      overflow: hidden;
+      border: var(--border-heavy);
+      background: var(--ink);
+      height: 220px; /* 모든 카드의 높이를 완벽하게 통일 */
+      border-radius: 8px;
+    }
+
+    .card-thumb {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      background-size: cover;
+      background-position: center;
+      transition: transform 0.6s;
+      filter: brightness(0.6);
+    }
+    .r-card:hover .card-thumb { transform: scale(1.06); filter: brightness(0.4); }
+
+    .card-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, transparent 100%);
+      pointer-events: none;
+    }
+
+    /* 점수 시각화 */
+    .card-score {
+      position: absolute;
+      top: 12px; left: 14px; z-index: 5;
+      font-family: var(--font-display);
+      font-size: 48px;
+      color: var(--cobalt); font-weight: 900;
+      text-shadow: 0 0 10px rgba(0, 71, 171, 0.8);
+      pointer-events: none;
+    }
+
+    /* 카드 내 텍스트 */
+    .card-content {
+      position: absolute; bottom: 0; left: 0; right: 0; padding: 16px; z-index: 2;
+      pointer-events: none; /* 클릭 방해 방지 */
+    }
+    
+    .card-region { font-size: 10px; font-weight: 700; color: #ccc; margin-bottom: 4px; }
+    
+    .card-name { 
+      font-family: var(--font-kr); font-size: 16px; font-weight: 900; 
+      margin-bottom: 8px; pointer-events: auto; /* 이름만 클릭 가능하게 복구 */
+    }
+    .card-name-link { color: #fff; text-decoration: none; transition: color 0.2s; }
+    .card-name-link:hover { color: #7EC8FF; text-decoration: underline; text-underline-offset: 4px; }
+
+    .card-tags { display: flex; gap: 4px; margin-top: 6px; }
+    .card-tag { font-family: var(--font-kr); font-size: 10px; background: var(--cobalt); color: #fff; padding: 2px 6px; border-radius: 4px; }
+
+    /* 호버 디테일 화면 */
+    .card-detail {
+      position: absolute; inset: 0; background: rgba(0, 15, 40, 0.95);
+      z-index: 6; padding: 20px; display: flex; flex-direction: column; justify-content: space-between;
+      opacity: 0; pointer-events: none; transition: opacity 0.3s;
+    }
+    .r-card:hover .card-detail { opacity: 1; pointer-events: auto; }
+
+    .detail-name { font-family: var(--font-kr); font-size: 18px; font-weight: 900; margin: 12px 0; }
+    .detail-address { font-family: var(--font-kr); font-size: 12px; color: #aaa; margin-bottom: 12px; }
+    .detail-map-btn { display: block; text-align: center; padding: 12px; background: var(--cobalt); color: #fff; font-size: 12px; font-weight: 700; text-decoration: none; border-radius: 4px;}
+    .detail-map-btn:hover { background: #1565C0; }
+
+    /* 글리치 애니메이션 */
+    .glitch-mid { animation: g-mid 3s infinite; }
+    .glitch-high { animation: g-high 2s infinite; }
+    @keyframes g-mid { 92% { transform: translate(-2px, 0); } 96% { transform: translate(2px, 0); } }
+    @keyframes g-high { 87% { transform: translate(-3px, 1px); } 89% { transform: translate(3px, -1px); } }
+
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-logo">TOKYO<span>FOOD</span>MAP</div>
+  <div class="header-badge">HYBRID SCORE SYSTEM</div>
+</header>
+
+<section class="hero">
+  <div class="hero-bg-text">TOKYO</div>
+  <div class="hero-inner">
+    <div class="hero-eyebrow">한·일 유튜버 교차 추천 기반 도쿄 맛집 지도</div>
+    <h1 class="hero-title"><span class="line-cobalt">TOKYO</span><span class="line-outline">FOOD</span><span class="line-cobalt">MAP</span></h1>
+  </div>
+</section>
+
+<section class="search-section" id="search">
+  <span class="search-label">— PERSONAL SEARCH SYSTEM —</span>
+  <div class="search-wrapper">
+    <input type="text" class="search-input" id="searchInput" placeholder="지역 · 분위기 · 식당명 검색" />
+    <span class="search-count" id="searchCount"></span>
+  </div>
+  <div class="tag-cloud" id="tagCloud">
+    <button class="tag-btn" data-tag="혼밥가능">혼밥가능</button>
+    <button class="tag-btn" data-tag="가성비">가성비</button>
+    <button class="tag-btn" data-tag="데이트">데이트</button>
+    <button class="tag-btn" data-tag="야경맛집">야경맛집</button>
+    <button class="tag-btn" data-tag="라멘">라멘</button>
+    <button class="tag-btn" data-tag="이자카야">이자카야</button>
+    <button class="tag-btn" data-tag="스시">스시</button>
+    <button class="tag-btn" data-tag="현지인추천">현지인추천</button>
+  </div>
+</section>
+
+<div class="filter-bar">
+  <div class="filter-bar-left"><strong id="resultCount">0</strong> RESTAURANTS FOUND</div>
+  <div class="sort-btns">
+    <button class="sort-btn active" data-sort="score">SCORE</button>
+    <button class="sort-btn" data-sort="rating">RATING</button>
+  </div>
+</div>
+
+<section class="grid-section">
+  <div class="restaurant-grid" id="restaurantGrid"></div>
+</section>
+
+<script>
+// JSON 데이터 삽입 부분 (파이썬에서 생성된 데이터가 이곳을 덮어씁니다)
+const RESTAURANTS_DATA = [
+  {
+    "id": "rest_008",
+    "name": "中目黒 蔦 (나카메구로 츠타)",
+    "region": "나카메구로(中目黒)",
+    "address": "東京都目黒区上目黒2-47-12",
+    "map_url": "https://www.google.com/maps/place/Tsuta+Nakameguro",
+    "atmosphere_tags": ["라멘", "프리미엄", "줄서는맛집"],
+    "overlap_count": 4,
+    "channels": ["SUSURU TV.", "도사남 DoSaNam"],
+    "google_rating": 4.8,
+    "final_score": 88.0,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/CevxZvSJLk8/hqdefault.jpg",
+    "video_id": "CevxZvSJLk8"
+  },
+  {
+    "id": "rest_015",
+    "name": "目黒 権之助坂 とんき (메구로 톤키)",
+    "region": "메구로(目黒)",
+    "address": "東京都目黒区下目黒1-1-2",
+    "map_url": "https://www.google.com/maps/place/Tonki+Meguro",
+    "atmosphere_tags": ["현지인추천", "줄서는맛집", "가성비"],
+    "overlap_count": 4,
+    "channels": ["도사남 DoSaNam", "SUSURU TV."],
+    "google_rating": 4.0,
+    "final_score": 80.0,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/BQ0mxQXmLsk/hqdefault.jpg",
+    "video_id": "BQ0mxQXmLsk"
+  },
+  {
+    "id": "rest_002",
+    "name": "すきやばし次郎 本店 (스키야바시 지로)",
+    "region": "긴자(銀座)",
+    "address": "東京都中央区銀座4-2-15",
+    "map_url": "https://www.google.com/maps/place/Sukiyabashi+Jiro+Honten",
+    "atmosphere_tags": ["오마카세", "프리미엄", "스시"],
+    "overlap_count": 3,
+    "channels": ["Tokyo Gourmet", "Cosper Gourmet"],
+    "google_rating": 4.4,
+    "final_score": 74.0,
+    "restaurant_thumbnail": "https://img.youtube.com/vi/oHg5SJYRHA0/hqdefault.jpg",
+    "video_id": "oHg5SJYRHA0"
+  }
+];
+
+let currentData = [...RESTAURANTS_DATA];
+let searchQuery = '';
+let activeTag = null;
+let currentSort = 'score';
+
+// 렌더링 함수 (수정됨: 완벽한 사이즈 통일 및 클릭 이슈 해결)
+function render() {
+  let data = [...RESTAURANTS_DATA];
+  
+  if (searchQuery) {
+    const q = searchQuery.toLowerCase();
+    data = data.filter(r => r.name.toLowerCase().includes(q) || r.region.includes(q) || r.atmosphere_tags.join(' ').includes(q));
+  }
+  if (activeTag) data = data.filter(r => r.atmosphere_tags.includes(activeTag));
+
+  data.sort((a, b) => currentSort === 'score' ? b.final_score - a.final_score : b.google_rating - a.google_rating);
+
+  document.getElementById('resultCount').textContent = data.length;
+  document.getElementById('searchCount').textContent = data.length + ' RESULTS';
+
+  const grid = document.getElementById('restaurantGrid');
+  grid.innerHTML = data.map(r => {
+    const glitch = r.final_score >= 75 ? 'glitch-high' : 'glitch-mid';
+    const tagsHtml = r.atmosphere_tags.map(t => `<span class="card-tag">${t}</span>`).join('');
+    
+    return `
+      <div class="r-card">
+        <div class="card-thumb" style="background-image:url('${r.restaurant_thumbnail}')"></div>
+        <div class="card-overlay"></div>
+        <div class="card-score ${glitch}">${r.final_score}</div>
+        
+        <div class="card-content">
+          <div class="card-region">${r.region}</div>
+          <div class="card-name"><a href="${r.map_url}" target="_blank" class="card-name-link">${r.name}</a></div>
+          <div style="color:#FFD700; font-size:12px; font-weight:bold;">★ ${r.google_rating} | ${r.overlap_count}CH</div>
+          <div class="card-tags">${tagsHtml}</div>
+        </div>
+
+        <div class="card-detail">
+          <div>
+            <div style="color:var(--cobalt); font-size:40px; font-family:var(--font-display); font-weight:900;">${r.final_score}</div>
+            <div class="detail-name"><a href="${r.map_url}" target="_blank" class="card-name-link">${r.name}</a></div>
+            <div class="detail-address">${r.address}</div>
+            <div style="color:#aaa; font-size:11px;">📺 ${r.channels.join(' · ')}</div>
+          </div>
+          <a href="${r.map_url}" target="_blank" class="detail-map-btn">📍 구글맵에서 바로 열기</a>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+// 이벤트 리스너들
+document.getElementById('searchInput').addEventListener('input', (e) => { searchQuery = e.target.value; render(); });
+document.querySelectorAll('.tag-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    activeTag = activeTag === btn.dataset.tag ? null : btn.dataset.tag;
+    document.querySelectorAll('.tag-btn').forEach(b => b.classList.toggle('active', b.dataset.tag === activeTag));
+    render();
+  });
+});
+document.querySelectorAll('.sort-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentSort = btn.dataset.sort;
+    render();
+  });
+});
+
+// fetch API 데이터 연동 (파이썬에서 만든 JSON 덮어씌우기)
+fetch('restaurants.json')
+  .then(res => res.json())
+  .then(data => {
+    RESTAURANTS_DATA.length = 0;
+    RESTAURANTS_DATA.push(...data);
+    render();
+  }).catch(e => console.log('Using sample data due to missing JSON.'));
+
+render();
+</script>
+</body>
+</html>

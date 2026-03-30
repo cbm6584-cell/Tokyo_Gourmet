@@ -1,0 +1,15 @@
+# Tokyo Food Map - requirements.txt
+# ===================================
+# 설치 방법: pip install -r requirements.txt
+
+# YouTube Data API v3 클라이언트
+google-api-python-client>=2.100.0
+
+# 환경변수 관리 (.env 파일 지원)
+python-dotenv>=1.0.0
+
+# HTTP 요청 (향후 확장용)
+requests>=2.31.0
+
+# 데이터 처리 (향후 확장용)
+pandas>=2.0.0
